@@ -12,3 +12,5 @@ let isAlive = true;
 let iDontKnow = false;
 
 console.log(isAlive);
+
+console.log("Hello!")
